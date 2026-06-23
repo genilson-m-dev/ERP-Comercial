@@ -335,7 +335,7 @@ Build
 Testes
 ↓
 Deploy
-Ordem de Desenvolvimento Recomendada
+# Ordem de Desenvolvimento Recomendada
 
 1. PostgreSQL
 2. Node.js
