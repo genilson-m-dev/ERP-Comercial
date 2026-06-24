@@ -1,1 +1,29 @@
 README.md
+backend/server.ts
+
+backend/src/index.ts
+
+# Dependências
+node_modules/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Build
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+
+# VS Code (opcional)
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
